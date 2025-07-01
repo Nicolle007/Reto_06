@@ -8,3 +8,7 @@
 -Para el cuarto al igual que el anterior valores no numericos y ninguna entrada.
 
 -Para el quinto encontre igualmente que podrian ingresarse valores numericos
+
+_Cada uno de los codigos pertenecen respectivamente a su nombre, Ej Punto 1 solucion al codigo 1_
+
+-Para el codigo de las figuras pude identificar varios errores para estos lo que hice fue crear un archivo .py que los contiene y asi puedo llamarlo en diferentes partes de el codigo como tal,
